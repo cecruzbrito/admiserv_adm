@@ -1,0 +1,56 @@
+{
+    "company": {
+        "nome": "",
+        "id": "",
+        "create_date": "",
+        "has_enabled": "",
+        "modifications": [
+            {
+                "id": "",
+                "date": "",
+                "id_user_admin": "",
+                "fields_modificated": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "permissions_apps": {
+            "admin": {
+                "has_enabled": "",
+                "permissions_func": {}
+            },
+            "app": {
+                "has_enabled": "",
+                "permissions_func": {}
+            }
+        },
+        "services": [
+            {
+                "id": "",
+                "nome": "",
+                "months_maintenance": "",
+                "has_enabled": ""
+            }
+        ],
+        "users": [
+            {
+                "nome": "",
+                "id": "",
+                "id_empresa": "",
+                "has_enabled": "",
+                "permissions_apps": {
+                    "admin": {
+                        "has_enabled": "",
+                        "permissions_func": {}
+                    },
+                    "app": {
+                        "has_enabled": "",
+                        "permissions_func": {}
+                    }
+                },
+                "create_date": ""
+            }
+        ]
+    }
+}

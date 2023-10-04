@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360344705913",
+    "project_id": "admiserv-7e60d",
+    "storage_bucket": "admiserv-7e60d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360344705913:android:78bc41e4ec5b6d752f6da8",
+        "android_client_info": {
+          "package_name": "cruz_brito.carlos_eduardo.admiserv_adm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfQNT00u_EUEkBf57L6woZ4-4OnacIgpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
